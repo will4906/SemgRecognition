@@ -1,0 +1,1 @@
+for /l %%i in (1,1,18) do python single.py --subject %%i --save_path save180310a
